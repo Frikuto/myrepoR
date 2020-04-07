@@ -12,3 +12,5 @@ This is a line from RStudio
 #Click “Commit”.
 
 So, it worked and the # thingies don't show up!
+
+Ok, no the # thingies show up, this is like copy-pasting an R script. It is just that before I didn't save after adding the # thingies.
